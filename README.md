@@ -187,7 +187,3 @@ The analysis is not financial advice and does not constitute an investment recom
 ## Author
 
 **Attila Kalácska-Tornyossy**
-
-Physics BSc → Quantitative Finance
-
-This project is part of a structured quantitative finance learning roadmap.
